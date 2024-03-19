@@ -1,0 +1,17 @@
+[
+  {
+    "age": 18,
+    "major": "Computer Science",
+    "fullName": "Ivan"
+  },
+  {
+    "age": 21,
+    "major": "Mathematics",
+    "fullName": "Petr"
+  },
+  {
+    "age": 25,
+    "major": "Physics",
+    "fullName": "Sergey"
+  }
+]

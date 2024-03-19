@@ -1,0 +1,22 @@
+{
+  "toAccept" : [
+    {
+      "id" : 1,
+      "age" : 20,
+      "name" : "Ivan",
+      "isMale" : true
+    },
+    {
+      "id" : 1,
+      "age" : 25,
+      "name" : "Sergey",
+      "isMale" : true
+    },
+    {
+      "id" : 1,
+      "age" : 25,
+      "name" : "Maria",
+      "isMale" : false
+    }
+  ]
+}
