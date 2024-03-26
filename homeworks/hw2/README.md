@@ -28,3 +28,6 @@ https://www.baeldung.com/javadoc
 
 Пример создания собственного плагина и сравнение:  
 https://youtu.be/21qdRgFsTy0
+
+Gradle с нуля до написания своего java plugin:  
+https://www.youtube.com/watch?v=yDj0n0g5dXY
